@@ -14,21 +14,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
-
-![](./"C:\Users\titil\Google Drive\qrcode challenge-frontend mentor.png")
-
-
+![qrcode challenge-frontend mentor](https://user-images.githubusercontent.com/59166113/171278265-e90e0df7-2cb1-4609-bf28-041f5dcc449e.png)
 
 ### Links
 
 - Solution URL: [http://127.0.0.1:5500/indexqrcode.html]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
@@ -39,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 
-### What I learned
+<!-- ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -74,7 +68,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.** -->
 
 ## Author
 
