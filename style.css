@@ -23,6 +23,7 @@ img{
 }
 
 h1{
+    font-size: 18px;
     margin-left: 40px;
     margin-top: -20px;
     color: hsl(218, 44%, 22%);  
